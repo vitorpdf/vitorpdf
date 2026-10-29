@@ -49,45 +49,6 @@ Meu objetivo é continuar desenvolvendo competências técnicas e de gestão, co
 
 ---
 
-## 📂 Projetos em destaque
-
-### 🤖 SmartReport — IA Generativa no Moodle
-
-Projeto voltado à geração de relatórios administrativos e pedagógicos por meio de linguagem natural, utilizando Inteligência Artificial Generativa integrada ao Moodle.
-
-**Atuação:** levantamento e priorização de requisitos, prototipação no Figma, organização do Product Backlog e planejamento de sprints.
-
-🔗 [Protótipo SmartReport](https://www.figma.com/design/WcGQ6m7nHwHhhItGLWfD5Z/SmartReport---V2)
-
-### 🏢 Projeto Zeus — Plataforma de Gestão Interna
-
-Sistema de gestão interna desenvolvido para apoiar processos administrativos e operacionais, incluindo gerenciamento de membros, patrimônio e equipes.
-
-**Atuação:** atividades de Product Owner, análise de requisitos, elaboração de histórias de usuário e organização de sprints.
-
-🔗 [Repositório Zeus](https://github.com/vitorpdf/plataforma-zeus)
-
-### 💬 Integração de IA com Moodle
-
-Projetos voltados à integração do Google Gemini com o Moodle, explorando recursos de Inteligência Artificial aplicados ao ambiente educacional.
-
-🔗 [block_gemini_chat](https://github.com/vitorpdf/block_gemini_chat)
-
-🔗 [report_gemini](https://github.com/vitorpdf/report_gemini)
-
----
-
-## 🎯 Interesses profissionais
-
-- Engenharia de Software
-- Desenvolvimento de Sistemas
-- Inteligência Artificial aplicada à Educação
-- Análise de Requisitos e Arquitetura de Software
-- Gestão Ágil de Projetos
-- Pesquisa e Inovação Tecnológica
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-firmino-510996b7/)
