@@ -11,18 +11,6 @@ Meu objetivo é continuar desenvolvendo competências técnicas e de gestão, co
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Graduando em **Sistemas de Informação — UFLA**
-- 💻 Interesse em **Engenharia de Software e Desenvolvimento de Sistemas**
-- 🤖 Participação em projetos de **Inteligência Artificial Generativa**
-- 📋 Experiência com **Scrum, Kanban, Product Backlog e requisitos de software**
-- 🎨 Prototipação de interfaces utilizando **Figma**
-- 🌱 Interesse em pesquisa, inovação e projetos de extensão universitária
-- 📍 Lavras, Minas Gerais — Brasil
-
----
-
 ## 🛠️ Tecnologias e ferramentas
 
 ### Linguagens e desenvolvimento
